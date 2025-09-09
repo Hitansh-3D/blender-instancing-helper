@@ -21,7 +21,7 @@ Manually selecting, linking (instancing), and sorting thousands of duplicated ob
 
 ## **Installation**
 
-1. Go to the [**Releases page**](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/blender-instancing-helper/releases) of this repository.
+1. Go to the [**Releases page**](https://github.com/Hitansh-3D/blender-instancing-helper) of this repository.
 2. Download the latest instancing\_helper\_vX.X.zip file.
 3. In Blender, go to Edit > Preferences > Add-ons.
 4. Click Install... and select the .zip file you just downloaded.
